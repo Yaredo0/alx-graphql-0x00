@@ -15,3 +15,18 @@ https://rickandmortyapi.com/graphql
 - character-id-2.graphql / character-id-2-output.json
 - character-id-3.graphql / character-id-3-output.json
 - character-id-4.graphql / character-id-4-output.json
+## Task 1: Paginated List of Characters
+
+Objective: Fetch a paginated list of characters using the `characters(page: Int)` field.
+
+### Fields
+- `id`
+- `name`
+- `status`
+- `image`
+
+### Files
+- characters-page-1.graphql / characters-page-1-output.json
+- characters-page-2.graphql / characters-page-2-output.json
+- characters-page-3.graphql / characters-page-3-output.json
+- characters-page-4.graphql / characters-page-4-output.json
